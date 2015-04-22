@@ -1,0 +1,752 @@
+Migrating to Setup (1)
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+WARNING: Can't mass-assign protected attributes for Setup::Permission: controller, action, description, sort
+
+Migrating to IssueMove (2)
+WARNING: Can't mass-assign protected attributes for IssueMove::Permission: controller, action, description, sort, mail_option, mail_enabled
+
+Migrating to IssueAddNote (3)
+WARNING: Can't mass-assign protected attributes for IssueAddNote::Permission: controller, action, description, sort, mail_option, mail_enabled
+
+Migrating to ExportPdf (4)
+WARNING: Can't mass-assign protected attributes for ExportPdf::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for ExportPdf::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to IssueStartDate (5)
+Migrating to CalendarAndActivity (6)
+WARNING: Can't mass-assign protected attributes for CalendarAndActivity::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for CalendarAndActivity::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for CalendarAndActivity::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to CreateJournals (7)
+WARNING: Can't mass-assign protected attributes for CreateJournals::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to CreateUserPreferences (8)
+Migrating to AddHideMailPref (9)
+Migrating to CreateComments (10)
+Migrating to AddNewsCommentsCount (11)
+Migrating to AddCommentsPermissions (12)
+WARNING: Can't mass-assign protected attributes for AddCommentsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for AddCommentsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to CreateQueries (13)
+Migrating to AddQueriesPermissions (14)
+WARNING: Can't mass-assign protected attributes for AddQueriesPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to CreateRepositories (15)
+Migrating to AddRepositoriesPermissions (16)
+WARNING: Can't mass-assign protected attributes for AddRepositoriesPermissions::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for AddRepositoriesPermissions::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for AddRepositoriesPermissions::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for AddRepositoriesPermissions::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for AddRepositoriesPermissions::Permission: controller, action, description, sort, is_public
+
+WARNING: Can't mass-assign protected attributes for AddRepositoriesPermissions::Permission: controller, action, description, sort, is_public
+
+Migrating to CreateSettings (17)
+Migrating to SetDocAndFilesNotifications (18)
+Migrating to AddIssueStatusPosition (19)
+Migrating to AddRolePosition (20)
+Migrating to AddTrackerPosition (21)
+Migrating to SerializePossiblesValues (22)
+Migrating to AddTrackerIsInRoadmap (23)
+Migrating to AddRoadmapPermission (24)
+WARNING: Can't mass-assign protected attributes for AddRoadmapPermission::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to AddSearchPermission (25)
+WARNING: Can't mass-assign protected attributes for AddSearchPermission::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to AddRepositoryLoginAndPassword (26)
+Migrating to CreateWikis (27)
+Migrating to CreateWikiPages (28)
+Migrating to CreateWikiContents (29)
+Migrating to AddProjectsFeedsPermissions (30)
+WARNING: Can't mass-assign protected attributes for AddProjectsFeedsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to AddRepositoryRootUrl (31)
+Migrating to CreateTimeEntries (32)
+Migrating to AddTimelogPermissions (33)
+WARNING: Can't mass-assign protected attributes for AddTimelogPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to CreateChangesets (34)
+Migrating to CreateChanges (35)
+Migrating to AddChangesetCommitDate (36)
+Migrating to AddProjectIdentifier (37)
+Migrating to AddCustomFieldIsFilter (38)
+Migrating to CreateWatchers (39)
+Migrating to CreateChangesetsIssues (40)
+Migrating to RenameCommentToComments (41)
+Migrating to CreateIssueRelations (42)
+Migrating to AddRelationsPermissions (43)
+WARNING: Can't mass-assign protected attributes for AddRelationsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for AddRelationsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to SetLanguageLengthToFive (44)
+Migrating to CreateBoards (45)
+Migrating to CreateMessages (46)
+Migrating to AddBoardsPermissions (47)
+WARNING: Can't mass-assign protected attributes for AddBoardsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for AddBoardsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for AddBoardsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to AllowNullVersionEffectiveDate (48)
+Migrating to AddWikiDestroyPagePermission (49)
+WARNING: Can't mass-assign protected attributes for AddWikiDestroyPagePermission::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to AddWikiAttachmentsPermissions (50)
+WARNING: Can't mass-assign protected attributes for AddWikiAttachmentsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+WARNING: Can't mass-assign protected attributes for AddWikiAttachmentsPermissions::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to AddProjectStatus (51)
+Migrating to AddChangesRevision (52)
+Migrating to AddChangesBranch (53)
+Migrating to AddChangesetsScmid (54)
+Migrating to AddRepositoriesType (55)
+Migrating to AddRepositoriesChangesPermission (56)
+WARNING: Can't mass-assign protected attributes for AddRepositoriesChangesPermission::Permission: controller, action, description, sort, is_public, mail_option, mail_enabled
+
+Migrating to AddVersionsWikiPageTitle (57)
+Migrating to AddIssueCategoriesAssignedToId (58)
+Migrating to AddRolesAssignable (59)
+Migrating to ChangeChangesetsCommitterLimit (60)
+Migrating to AddRolesBuiltin (61)
+Migrating to InsertBuiltinRoles (62)
+Migrating to AddRolesPermissions (63)
+Migrating to DropPermissions (64)
+Migrating to AddSettingsUpdatedOn (65)
+Migrating to AddCustomValueCustomizedIndex (66)
+Migrating to CreateWikiRedirects (67)
+Migrating to CreateEnabledModules (68)
+Migrating to AddIssuesEstimatedHours (69)
+Migrating to ChangeAttachmentsContentTypeLimit (70)
+Migrating to AddQueriesColumnNames (71)
+Migrating to AddEnumerationsPosition (72)
+Migrating to AddEnumerationsIsDefault (73)
+Migrating to AddAuthSourcesTls (74)
+Migrating to AddMembersMailNotification (75)
+Migrating to AllowNullPosition (76)
+Migrating to RemoveIssueStatusesHtmlColor (77)
+Migrating to AddCustomFieldsPosition (78)
+Migrating to AddUserPreferencesTimeZone (79)
+Migrating to AddUsersType (80)
+Migrating to CreateProjectsTrackers (81)
+Migrating to AddMessagesLocked (82)
+Migrating to AddMessagesSticky (83)
+Migrating to ChangeAuthSourcesAccountLimit (84)
+Migrating to AddRoleTrackerOldStatusIndexToWorkflows (85)
+Migrating to AddCustomFieldsSearchable (86)
+Migrating to ChangeProjectsDescriptionToText (87)
+Migrating to AddCustomFieldsDefaultValue (88)
+Migrating to AddAttachmentsDescription (89)
+Migrating to ChangeVersionsNameLimit (90)
+Migrating to ChangeChangesetsRevisionToString (91)
+Migrating to ChangeChangesFromRevisionToString (92)
+Migrating to AddWikiPagesProtected (93)
+Migrating to ChangeProjectsHomepageLimit (94)
+Migrating to AddWikiPagesParentId (95)
+Migrating to AddCommitAccessPermission (96)
+Migrating to AddViewWikiEditsPermission (97)
+Migrating to SetTopicAuthorsAsWatchers (98)
+Migrating to AddDeleteWikiPagesAttachmentsPermission (99)
+Migrating to AddChangesetsUserId (100)
+Migrating to PopulateChangesetsUserId (101)
+Migrating to AddCustomFieldsEditable (102)
+Migrating to SetCustomFieldsEditable (103)
+Migrating to AddProjectsLftAndRgt (104)
+Migrating to BuildProjectsTree (105)
+Migrating to RemoveProjectsProjectsCount (106)
+Migrating to AddOpenIdAuthenticationTables (107)
+Migrating to AddIdentityUrlToUsers (108)
+Migrating to AddWatchersUserIdTypeIndex (20090214190337)
+Migrating to AddQueriesSortCriteria (20090312172426)
+Migrating to AddProjectsTrackersUniqueIndex (20090312194159)
+Migrating to ExtendSettingsName (20090318181151)
+Migrating to AddTypeToEnumerations (20090323224724)
+Migrating to UpdateEnumerationsToSti (20090401221305)
+Migrating to AddActiveFieldToEnumerations (20090401231134)
+Migrating to AddProjectToEnumerations (20090403001910)
+Migrating to AddParentIdToEnumerations (20090406161854)
+Migrating to AddQueriesGroupBy (20090425161243)
+Migrating to CreateMemberRoles (20090503121501)
+Migrating to PopulateMemberRoles (20090503121505)
+Migrating to DropMembersRoleId (20090503121510)
+Migrating to FixMessagesStickyNull (20090614091200)
+Migrating to PopulateUsersType (20090704172350)
+Migrating to CreateGroupsUsers (20090704172355)
+Migrating to AddMemberRolesInheritedFrom (20090704172358)
+Migrating to FixUsersCustomValues (20091010093521)
+Migrating to AddMissingIndexesToWorkflows (20091017212227)
+Migrating to AddMissingIndexesToCustomFieldsProjects (20091017212457)
+Migrating to AddMissingIndexesToMessages (20091017212644)
+Migrating to AddMissingIndexesToRepositories (20091017212938)
+Migrating to AddMissingIndexesToComments (20091017213027)
+Migrating to AddMissingIndexesToEnumerations (20091017213113)
+Migrating to AddMissingIndexesToWikiPages (20091017213151)
+Migrating to AddMissingIndexesToWatchers (20091017213228)
+Migrating to AddMissingIndexesToAuthSources (20091017213257)
+Migrating to AddMissingIndexesToDocuments (20091017213332)
+Migrating to AddMissingIndexesToTokens (20091017213444)
+Migrating to AddMissingIndexesToChangesets (20091017213536)
+Migrating to AddMissingIndexesToIssueCategories (20091017213642)
+Migrating to AddMissingIndexesToMemberRoles (20091017213716)
+Migrating to AddMissingIndexesToBoards (20091017213757)
+Migrating to AddMissingIndexesToUserPreferences (20091017213835)
+Migrating to AddMissingIndexesToIssues (20091017213910)
+Migrating to AddMissingIndexesToMembers (20091017214015)
+Migrating to AddMissingIndexesToCustomFields (20091017214107)
+Migrating to AddMissingIndexesToQueries (20091017214136)
+Migrating to AddMissingIndexesToTimeEntries (20091017214236)
+Migrating to AddMissingIndexesToNews (20091017214308)
+Migrating to AddMissingIndexesToUsers (20091017214336)
+Migrating to AddMissingIndexesToAttachments (20091017214406)
+Migrating to AddMissingIndexesToWikiContents (20091017214440)
+Migrating to AddMissingIndexesToCustomValues (20091017214519)
+Migrating to AddMissingIndexesToJournals (20091017214611)
+Migrating to AddMissingIndexesToIssueRelations (20091017214644)
+Migrating to AddMissingIndexesToWikiRedirects (20091017214720)
+Migrating to AddMissingIndexesToCustomFieldsTrackers (20091017214750)
+Migrating to AddActivityIndexes (20091025163651)
+Migrating to AddVersionsStatus (20091108092559)
+Migrating to AddViewIssuesPermission (20091114105931)
+Migrating to AddDefaultDoneRatioToIssueStatus (20091123212029)
+Migrating to AddVersionsSharing (20091205124427)
+Migrating to AddLftAndRgtIndexesToProjects (20091220183509)
+Migrating to AddIndexToSettingsName (20091220183727)
+Migrating to AddIndexesToIssueStatus (20091220184736)
+Migrating to RemoveEnumerationsOpt (20091225164732)
+Migrating to ChangeWikiContentsTextLimit (20091227112908)
+Migrating to ChangeUsersMailNotificationToString (20100129193402)
+Migrating to UpdateMailNotificationValues (20100129193813)
+Migrating to AddIndexOnChangesetsScmid (20100221100219)
+Migrating to AddIssuesNestedSetsColumns (20100313132032)
+Migrating to AddIndexOnIssuesNestedSet (20100313171051)
+Migrating to ChangeChangesPathLengthLimit (20100705164950)
+Migrating to EnableCalendarAndGanttModulesWhereAppropriate (20100819172912)
+Migrating to AddUniqueIndexOnMembers (20101104182107)
+Migrating to AddCustomFieldsVisible (20101107130441)
+Migrating to ChangeProjectsNameLimit (20101114115114)
+Migrating to ChangeProjectsIdentifierLimit (20101114115359)
+Migrating to AddWorkflowsAssigneeAndAuthor (20110220160626)
+Migrating to AddUsersSalt (20110223180944)
+Migrating to SaltUserPasswords (20110223180953)
+Migrating to AddRepositoriesPathEncoding (20110224000000)
+Migrating to ChangeRepositoriesPasswordLimit (20110226120112)
+Migrating to ChangeAuthSourcesAccountPasswordLimit (20110226120132)
+Migrating to ChangeJournalDetailsValuesToText (20110227125750)
+Migrating to AddRepositoriesLogEncoding (20110228000000)
+Migrating to CopyRepositoriesLogEncoding (20110228000100)
+Migrating to AddIndexToUsersType (20110401192910)
+Migrating to AddRolesIssuesVisibility (20110408103312)
+Migrating to AddIssuesIsPrivate (20110412065600)
+Migrating to AddRepositoriesExtraInfo (20110511000000)
+Migrating to CreateChangesetParents (20110902000000)
+Migrating to AddUniqueIndexToIssueRelations (20111201201315)
+Migrating to AddRepositoriesIdentifier (20120115143024)
+Migrating to AddRepositoriesIsDefault (20120115143100)
+Migrating to SetDefaultRepositories (20120115143126)
+Migrating to AddCustomFieldsMultiple (20120127174243)
+Migrating to ChangeUsersLoginLimit (20120205111326)
+Migrating to ChangeAttachmentsContainerDefaults (20120223110929)
+Migrating to AddAuthSourcesFilter (20120301153455)
+Migrating to ChangeRepositoriesToFullSti (20120422150750)
+Migrating to AddTrackersFieldsBits (20120705074331)
+Migrating to AddAuthSourcesTimeout (20120707064544)
+Migrating to AddWorkflowsType (20120714122000)
+Migrating to UpdateWorkflowsToSti (20120714122100)
+Migrating to AddWorkflowsRuleFields (20120714122200)
+Migrating to AddBoardsParentId (20120731164049)
+Migrating to AddJournalsPrivateNotes (20120930112914)
+Migrating to AddEnumerationsPositionName (20121026002032)
+Migrating to PopulateEnumerationsPositionName (20121026003537)
+Migrating to AddQueriesType (20121209123234)
+Migrating to UpdateQueriesToSti (20121209123358)
+Migrating to AddAttachmentsDiskDirectory (20121213084931)
+Migrating to SplitDocumentsPermissions (20130110122628)
+Migrating to AddUniqueIndexOnTokensValue (20130201184705)
+Migrating to AddProjectsInheritMembers (20130202090625)
+Migrating to AddUniqueIndexOnCustomFieldsTrackers (20130207175206)
+Migrating to AddUniqueIndexOnCustomFieldsProjects (20130207181455)
+Migrating to ChangeUsersLastnameLengthTo255 (20130215073721)
+Migrating to AddIssuesClosedOn (20130215111127)
+Migrating to PopulateIssuesClosedOn (20130215111141)
+Migrating to RemoveIssuesDefaultFkValues (20130217094251)
+Migrating to CreateQueriesRoles (20130602092539)
+Migrating to AddQueriesVisibility (20130710182539)
+Migrating to CreateCustomFieldsRoles (20130713104233)
+Migrating to AddQueriesOptions (20130713111657)
+Migrating to AddUsersMustChangePasswd (20130729070143)
+Migrating to RemoveEolsFromAttachmentsFilename (20130911193200)
+Migrating to SupportForMultipleCommitKeywords (20131004113137)
+Migrating to AddRepositoriesCreatedOn (20131005100610)
+Migrating to AddCustomFieldsFormatStore (20131124175346)
+Migrating to AddCustomFieldsDescription (20131210180802)
+Migrating to RemoveCustomFieldsMinMaxLengthDefaultValues (20131214094309)
+Migrating to StoreRelationTypeInJournalDetails (20131215104612)
+Migrating to DeleteOrphanTimeEntriesCustomValues (20131218183023)
+Migrating to ChangeChangesetsCommentsLimit (20140228130325)
+Migrating to AddPasswordChangedAtToUser (20140903143914)
+Migrating to InsertBuiltinGroups (20140920094058)
+Migrating to AddTrackersDefaultStatusId (20141029181752)
+Migrating to RemoveIssueStatusesIsDefault (20141029181824)
+Migrating to AddRolesUsersVisibility (20141109112308)
+Migrating to AddWikiRedirectsRedirectsToWikiId (20141122124142)
+Migrating to CreateEmailAddresses (20150113194759)
+Migrating to PopulateEmailAddresses (20150113211532)
+Migrating to RemoveUsersMail (20150113213922)
+Migrating to AddEmailAddressesUserIdIndex (20150113213955)
+Migrating to ReplaceMoveIssuesPermission (20150208105930)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 03:05:11 -0400
+Processing by WelcomeController#index as HTML
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (2145.1ms)
+Completed 200 OK in 5927ms (Views: 5071.8ms | ActiveRecord: 41.0ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 03:05:19 -0400
+Processing by WelcomeController#index as HTML
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (1.3ms)
+Completed 200 OK in 98ms (Views: 87.6ms | ActiveRecord: 2.9ms)
+Started GET "/" for 127.9.244.129 at 2015-04-21 03:05:34 -0400
+Processing by WelcomeController#index as HTML
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (234.3ms)
+Completed 200 OK in 420ms (Views: 396.7ms | ActiveRecord: 14.8ms)
+Started GET "/login" for 127.9.244.129 at 2015-04-21 03:05:42 -0400
+Processing by AccountController#login as HTML
+  Current user: anonymous
+  Rendered account/login.html.erb within layouts/base (37.8ms)
+Completed 200 OK in 82ms (Views: 75.1ms | ActiveRecord: 2.4ms)
+Started POST "/login" for 127.9.244.129 at 2015-04-21 03:05:44 -0400
+Processing by AccountController#login as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eLmGbqpIuDlRikDfsD+iZEIpldYh2WnBBNv+r2I61YwdUlhBEHufB2Asl0Of6Dvf3pwPeCKDgdoUzSiBmyFYgA==", "back_url"=>"http://km-asahis.rhcloud.com/", "username"=>"admin", "password"=>"[FILTERED]", "login"=>"登入 »"}
+  Current user: anonymous
+Successful authentication for 'admin' from 118.168.220.154 at 2015-04-21 07:05:44 UTC
+Redirected to http://km-asahis.rhcloud.com/
+Completed 302 Found in 21ms (ActiveRecord: 11.9ms)
+Started GET "/" for 127.9.244.129 at 2015-04-21 03:05:45 -0400
+Processing by WelcomeController#index as HTML
+  Current user: admin (id=1)
+  Rendered welcome/index.html.erb within layouts/base (218.9ms)
+Completed 200 OK in 403ms (Views: 194.5ms | ActiveRecord: 195.9ms)
+Started GET "/admin" for 127.9.244.129 at 2015-04-21 03:05:48 -0400
+Processing by AdminController#index as HTML
+  Current user: admin (id=1)
+  Rendered admin/_menu.html.erb (5.6ms)
+  Rendered admin/index.html.erb within layouts/admin (45.9ms)
+  Rendered layouts/base.html.erb (13.4ms)
+Completed 200 OK in 107ms (Views: 93.4ms | ActiveRecord: 3.2ms)
+Started GET "/settings" for 127.9.244.129 at 2015-04-21 03:05:52 -0400
+Processing by SettingsController#index as HTML
+  Current user: admin (id=1)
+  Rendered settings/_general.html.erb (77.4ms)
+  Rendered settings/_display.html.erb (8392.6ms)
+  Rendered settings/_authentication.html.erb (86.9ms)
+  Rendered settings/_projects.html.erb (188.9ms)
+  Rendered queries/_columns.html.erb (76.4ms)
+  Rendered settings/_issues.html.erb (489.0ms)
+  Rendered settings/_notifications.html.erb (128.0ms)
+  Rendered settings/_mail_handler.html.erb (42.2ms)
+  Rendered settings/_repositories.html.erb (4612.6ms)
+  Rendered common/_tabs.html.erb (14105.9ms)
+  Rendered settings/edit.html.erb within layouts/admin (14109.8ms)
+  Rendered admin/_menu.html.erb (14.0ms)
+  Rendered layouts/base.html.erb (126.7ms)
+Completed 200 OK in 14335ms (Views: 13966.5ms | ActiveRecord: 316.9ms)
+Started POST "/settings/edit" for 127.9.244.129 at 2015-04-21 03:07:20 -0400
+Processing by SettingsController#edit as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"iMVBk4BNDzTugAMpsfbN5SeLHNod/9Ub8vx+p8j8pY1l6CZRctBZar/ohBXD155Br3E0/Za93I+sYobDszpFag==", "settings"=>{"app_title"=>"旭儀企業知識庫管理", "welcome_text"=>"知識庫管理\r\n問題單管理\r\n訂單管理\r\n材料編號管理\r\n", "attachment_max_size"=>"5120", "per_page_options"=>"25,50,100", "search_results_per_page"=>"10", "activity_days_default"=>"30", "host_name"=>"localhost:3000", "protocol"=>"http", "text_formatting"=>"textile", "cache_formatted_text"=>"0", "wiki_compression"=>"", "feeds_limit"=>"15", "file_max_size_displayed"=>"512", "diff_max_lines_displayed"=>"1500", "repositories_encodings"=>""}, "commit"=>"儲存"}
+  Current user: admin (id=1)
+Redirected to http://km-asahis.rhcloud.com/settings
+Completed 302 Found in 200ms (ActiveRecord: 139.9ms)
+Started GET "/settings" for 127.9.244.129 at 2015-04-21 03:07:20 -0400
+Processing by SettingsController#index as HTML
+Settings cache cleared.
+  Current user: admin (id=1)
+  Rendered settings/_general.html.erb (30.9ms)
+  Rendered settings/_display.html.erb (82.2ms)
+  Rendered settings/_authentication.html.erb (89.0ms)
+  Rendered settings/_projects.html.erb (13.6ms)
+  Rendered queries/_columns.html.erb (4.9ms)
+  Rendered settings/_issues.html.erb (98.7ms)
+  Rendered settings/_notifications.html.erb (14.1ms)
+  Rendered settings/_mail_handler.html.erb (7.1ms)
+  Rendered settings/_repositories.html.erb (94.3ms)
+  Rendered common/_tabs.html.erb (505.9ms)
+  Rendered settings/edit.html.erb within layouts/admin (506.5ms)
+  Rendered admin/_menu.html.erb (5.1ms)
+  Rendered layouts/base.html.erb (97.7ms)
+Completed 200 OK in 622ms (Views: 446.8ms | ActiveRecord: 166.7ms)
+Started POST "/settings/edit?tab=repositories" for 127.9.244.129 at 2015-04-21 03:07:55 -0400
+Processing by SettingsController#edit as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"QaybhIORYfOd5Ku95OXQ9v7UjgHNlUWTAXm1E30wTNmsgfxGcQw3rcyMLIGWxINSdi6mJkbXTAdf5013BvasPg==", "settings"=>{"enabled_scm"=>["", "Git"], "autofetch_changesets"=>"1", "sys_api_enabled"=>"0", "repository_log_display_limit"=>"100", "commit_ref_keywords"=>"refs,references,IssueID", "commit_cross_project_ref"=>"1", "commit_logtime_enabled"=>"0", "commit_update_keywords"=>{"if_tracker_id"=>[""], "keywords"=>[""], "status_id"=>["0"], "done_ratio"=>[""]}}, "commit"=>"儲存", "tab"=>"repositories"}
+  Current user: admin (id=1)
+Redirected to http://km-asahis.rhcloud.com/settings?tab=repositories
+Completed 302 Found in 191ms (ActiveRecord: 138.5ms)
+Started GET "/settings?tab=repositories" for 127.9.244.129 at 2015-04-21 03:07:55 -0400
+Processing by SettingsController#index as HTML
+  Parameters: {"tab"=>"repositories"}
+Settings cache cleared.
+  Current user: admin (id=1)
+  Rendered settings/_general.html.erb (22.9ms)
+  Rendered settings/_display.html.erb (20.2ms)
+  Rendered settings/_authentication.html.erb (20.6ms)
+  Rendered settings/_projects.html.erb (77.5ms)
+  Rendered queries/_columns.html.erb (5.4ms)
+  Rendered settings/_issues.html.erb (278.9ms)
+  Rendered settings/_notifications.html.erb (19.6ms)
+  Rendered settings/_mail_handler.html.erb (6.4ms)
+  Rendered settings/_repositories.html.erb (44.2ms)
+  Rendered common/_tabs.html.erb (496.0ms)
+  Rendered settings/edit.html.erb within layouts/admin (496.6ms)
+  Rendered admin/_menu.html.erb (4.0ms)
+  Rendered layouts/base.html.erb (11.9ms)
+Completed 200 OK in 524ms (Views: 470.9ms | ActiveRecord: 45.4ms)
+Started POST "/settings/edit?tab=display" for 127.9.244.129 at 2015-04-21 03:08:38 -0400
+Processing by SettingsController#edit as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"fN7cMYCG/nzh3dsRrGshULILIQpAjgMmTX7J9pc5PCaR87vzchuoIrC1XC3eSnL0OvEJLcvMCrIT4DGS7P/cwQ==", "settings"=>{"ui_theme"=>"", "default_language"=>"zh-TW", "force_default_language_for_anonymous"=>"1", "force_default_language_for_loggedin"=>"1", "start_of_week"=>"1", "date_format"=>"%Y-%m-%d", "time_format"=>"%H:%M", "user_format"=>"firstname_lastname", "gravatar_enabled"=>"0", "gravatar_default"=>"", "thumbnails_enabled"=>"0", "thumbnails_size"=>"100"}, "commit"=>"儲存", "tab"=>"display"}
+  Current user: admin (id=1)
+Redirected to http://km-asahis.rhcloud.com/settings?tab=display
+Completed 302 Found in 225ms (ActiveRecord: 171.0ms)
+Started GET "/settings?tab=display" for 127.9.244.129 at 2015-04-21 03:08:38 -0400
+Processing by SettingsController#index as HTML
+  Parameters: {"tab"=>"display"}
+Settings cache cleared.
+  Current user: admin (id=1)
+  Rendered settings/_general.html.erb (21.4ms)
+  Rendered settings/_display.html.erb (17.5ms)
+  Rendered settings/_authentication.html.erb (18.4ms)
+  Rendered settings/_projects.html.erb (12.9ms)
+  Rendered queries/_columns.html.erb (4.8ms)
+  Rendered settings/_issues.html.erb (28.2ms)
+  Rendered settings/_notifications.html.erb (15.1ms)
+  Rendered settings/_mail_handler.html.erb (6.8ms)
+  Rendered settings/_repositories.html.erb (84.2ms)
+  Rendered common/_tabs.html.erb (209.6ms)
+  Rendered settings/edit.html.erb within layouts/admin (210.4ms)
+  Rendered admin/_menu.html.erb (4.3ms)
+  Rendered layouts/base.html.erb (11.8ms)
+Completed 200 OK in 238ms (Views: 197.7ms | ActiveRecord: 32.9ms)
+Started GET "/my/page" for 127.9.244.129 at 2015-04-21 03:08:53 -0400
+Processing by MyController#page as HTML
+  Current user: admin (id=1)
+  Rendered issues/_list_simple.html.erb (1.7ms)
+  Rendered my/blocks/_issuesassignedtome.html.erb (304.2ms)
+  Rendered issues/_list_simple.html.erb (0.2ms)
+  Rendered my/blocks/_issuesreportedbyme.html.erb (10.9ms)
+  Rendered my/page.html.erb within layouts/base (324.6ms)
+Completed 200 OK in 366ms (Views: 348.1ms | ActiveRecord: 12.1ms)
+Started GET "/" for 127.9.244.129 at 2015-04-21 03:08:57 -0400
+Processing by WelcomeController#index as HTML
+  Current user: admin (id=1)
+  Rendered welcome/index.html.erb within layouts/base (8.1ms)
+Completed 200 OK in 30ms (Views: 19.1ms | ActiveRecord: 3.9ms)
+Started POST "/logout" for 127.9.244.129 at 2015-04-21 03:09:03 -0400
+Processing by AccountController#logout as HTML
+  Parameters: {"authenticity_token"=>"Me9YSGCEQxMQi7lWKFMDVuVlQu6jXDofzVupWX4EhLPcwj+KkhkVTUHjPmpaclDybZ9qySgeM4uTxVE9BcJkVA=="}
+  Current user: admin (id=1)
+Redirected to http://km-asahis.rhcloud.com/
+Completed 302 Found in 16ms (ActiveRecord: 3.3ms)
+Started GET "/" for 127.9.244.129 at 2015-04-21 03:09:03 -0400
+Processing by WelcomeController#index as HTML
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (1.6ms)
+Completed 200 OK in 20ms (Views: 9.4ms | ActiveRecord: 3.0ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 03:10:35 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (11.5ms)
+Completed 200 OK in 58ms (Views: 42.6ms | ActiveRecord: 7.3ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 03:10:35 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (1.8ms)
+Completed 200 OK in 33ms (Views: 12.1ms | ActiveRecord: 4.9ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 04:10:30 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (1.5ms)
+Completed 200 OK in 17ms (Views: 8.7ms | ActiveRecord: 3.0ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 04:10:30 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (3.5ms)
+Completed 200 OK in 19ms (Views: 10.7ms | ActiveRecord: 2.6ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 05:10:58 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (4.8ms)
+Completed 200 OK in 45ms (Views: 12.5ms | ActiveRecord: 13.5ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 05:10:58 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (1.4ms)
+Completed 200 OK in 20ms (Views: 8.0ms | ActiveRecord: 5.6ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 06:10:37 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (1.7ms)
+Completed 200 OK in 29ms (Views: 13.5ms | ActiveRecord: 3.3ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 06:10:37 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (2.9ms)
+Completed 200 OK in 36ms (Views: 13.8ms | ActiveRecord: 7.8ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 07:10:26 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (1.8ms)
+Completed 200 OK in 19ms (Views: 9.4ms | ActiveRecord: 2.6ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 07:10:27 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (1.6ms)
+Completed 200 OK in 26ms (Views: 10.5ms | ActiveRecord: 5.1ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 08:10:40 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (140.6ms)
+Completed 200 OK in 287ms (Views: 244.1ms | ActiveRecord: 4.2ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 08:10:41 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (37.4ms)
+Completed 200 OK in 193ms (Views: 85.9ms | ActiveRecord: 10.7ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 09:10:27 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (189.8ms)
+Completed 200 OK in 487ms (Views: 439.4ms | ActiveRecord: 32.0ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 09:10:28 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (175.3ms)
+Completed 200 OK in 412ms (Views: 288.2ms | ActiveRecord: 19.8ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 10:10:48 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (65.7ms)
+Completed 200 OK in 644ms (Views: 330.5ms | ActiveRecord: 214.8ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 10:10:49 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (258.7ms)
+Completed 200 OK in 606ms (Views: 538.1ms | ActiveRecord: 16.6ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 11:10:33 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (104.9ms)
+Completed 200 OK in 1882ms (Views: 419.1ms | ActiveRecord: 107.3ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 11:10:36 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (29.4ms)
+Completed 200 OK in 380ms (Views: 247.7ms | ActiveRecord: 20.6ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 12:10:29 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (80.5ms)
+Completed 200 OK in 598ms (Views: 364.0ms | ActiveRecord: 44.4ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 12:10:30 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (21.4ms)
+Completed 200 OK in 18974ms (Views: 18849.8ms | ActiveRecord: 23.5ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 13:10:29 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (64.2ms)
+Completed 200 OK in 1596ms (Views: 427.8ms | ActiveRecord: 180.4ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 13:10:35 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (2.0ms)
+Completed 200 OK in 65ms (Views: 23.3ms | ActiveRecord: 33.6ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 14:10:26 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (47.4ms)
+Completed 200 OK in 751ms (Views: 417.4ms | ActiveRecord: 138.5ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 14:10:27 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (32.2ms)
+Completed 200 OK in 478ms (Views: 300.4ms | ActiveRecord: 156.6ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 15:10:31 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (158.5ms)
+Completed 200 OK in 401ms (Views: 308.0ms | ActiveRecord: 21.7ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 15:10:32 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (1.7ms)
+Completed 200 OK in 280ms (Views: 204.6ms | ActiveRecord: 56.6ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 16:10:31 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (16.9ms)
+Completed 200 OK in 582ms (Views: 323.2ms | ActiveRecord: 67.5ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 16:10:32 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (6.6ms)
+Completed 200 OK in 318ms (Views: 209.6ms | ActiveRecord: 36.9ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 17:10:23 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (8.0ms)
+Completed 200 OK in 304ms (Views: 194.2ms | ActiveRecord: 19.3ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 17:10:24 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (20.9ms)
+Completed 200 OK in 250ms (Views: 200.1ms | ActiveRecord: 14.6ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 18:10:33 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (88.1ms)
+Completed 200 OK in 617ms (Views: 569.0ms | ActiveRecord: 3.9ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 18:10:34 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (49.1ms)
+Completed 200 OK in 283ms (Views: 223.5ms | ActiveRecord: 14.6ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 19:10:33 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (36.2ms)
+Completed 200 OK in 211ms (Views: 143.4ms | ActiveRecord: 46.5ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 19:10:33 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (57.8ms)
+Completed 200 OK in 507ms (Views: 224.1ms | ActiveRecord: 156.3ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 20:10:26 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (72.5ms)
+Completed 200 OK in 531ms (Views: 291.2ms | ActiveRecord: 34.6ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 20:10:27 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (92.5ms)
+Completed 200 OK in 686ms (Views: 568.3ms | ActiveRecord: 60.8ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 21:10:30 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (53.5ms)
+Completed 200 OK in 589ms (Views: 300.8ms | ActiveRecord: 74.7ms)
+Started HEAD "/" for 127.9.244.129 at 2015-04-21 21:10:31 -0400
+Processing by WelcomeController#index as */*
+  Current user: anonymous
+  Rendered welcome/index.html.erb within layouts/base (127.1ms)
+Completed 200 OK in 502ms (Views: 347.9ms | ActiveRecord: 63.5ms)
+Started GET "/login" for 127.9.244.129 at 2015-04-21 21:20:11 -0400
+Processing by AccountController#login as HTML
+  Current user: anonymous
+  Rendered account/login.html.erb within layouts/base (397.5ms)
+Completed 200 OK in 1492ms (Views: 692.5ms | ActiveRecord: 43.3ms)
+Started POST "/login" for 127.9.244.129 at 2015-04-21 21:20:15 -0400
+Processing by AccountController#login as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ZPK6iCIuPfuslifJUXOiQoEZ98UsYh7Kyzu3Q/kCX6xxhqQY/gf5azetTyM7VGpNM0lvpOjvk6YZyD+pC8WOAA==", "back_url"=>"http://km-asahis.rhcloud.com/", "username"=>"admin", "password"=>"[FILTERED]", "login"=>"登入 »"}
+  Current user: anonymous
+Successful authentication for 'admin' from 118.168.217.194 at 2015-04-22 01:20:16 UTC
+Redirected to http://km-asahis.rhcloud.com/
+Completed 302 Found in 1251ms (ActiveRecord: 63.9ms)
+Started GET "/" for 127.9.244.129 at 2015-04-21 21:20:17 -0400
+Processing by WelcomeController#index as HTML
+  Current user: admin (id=1)
+  Rendered welcome/index.html.erb within layouts/base (510.4ms)
+Completed 200 OK in 1903ms (Views: 1604.3ms | ActiveRecord: 243.7ms)
